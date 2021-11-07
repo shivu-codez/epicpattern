@@ -45,14 +45,14 @@
 			"answer":"c Explanation: There are 4 OOPS concepts in Java. Inheritance, Encapsulation, Polymorphism and Abstraction."
 		},
 		{
-			"question":"What is not the use of "this" keyword in Java?",
+			"question":"What is not the use of \"this\" keyword in Java?",
 			"options" : [
 			"Referring to the instance variable when a local variable has the same name",
 			"Passing itself to the method of the same class",
 			"Passing itself to another method",
 			"Calling another constructor in constructor chaining"
 			],
-			"answer":"b Explanation: "this" is an important keyword in java. It helps to distinguish between local variable and variables passed in the method as parameters."
+			"answer":"b Explanation: \"this\" is an important keyword in java. It helps to distinguish between local variable and variables passed in the method as parameters."
 		},
 		{
 			"question":"Which of the following is a type of polymorphism in Java Programming?",
