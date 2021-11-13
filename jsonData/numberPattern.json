@@ -2,43 +2,53 @@
   "data":[
     {
       "title":"Pattern 0",
-      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern0.png"
+      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern0.png",
+	  "prgm":""
     },
     {
       "title":"Pattern 1",
-      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern1.png"
+      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern1.png",
+	  "prgm":""
     },
     {
       "title":"Pattern 2",
-      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern2.png"
+      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern2.png",
+	  "prgm":""
     },
     {
       "title":"Pattern 3",
-      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern3.png"
+      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern3.png",
+	  "prgm":""
     },
     {
       "title":"Pattern 4",
-      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern4.png"
+      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern4.png",
+	  "prgm":""
     },
     {
       "title":"Pattern 5",
-      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern5.png"
+      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern5.png",
+	  "prgm":""
     },
     {
       "title":"Pattern 6",
-      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern6.png"
+      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern6.png",
+	  "prgm":""
     },
     {
       "title":"Pattern 7",
-      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern7.png"
+      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern7.png",
+	  "prgm":""
     },
     {
       "title":"Pattern 8",
-      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern8.png"
+      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern8.png",
+	  "prgm":""
     },
     {
       "title":"Pattern 9",
-      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern9.png"
+      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/numbers/pattern9.png",
+	  "prgm":""
     }
     ]
 }
