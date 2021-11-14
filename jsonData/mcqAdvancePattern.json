@@ -18,7 +18,7 @@
 		{
 			"question":"What is the use of \w in regex?",
 			"options" : ["Used for a whitespace character","Used for a non-whitespace character","Used for a word character","Used for a non-word character"],
-			"answer":"c Explanation: In java, the "\w" regex is used to match with a word character consists of [a-zA-Z_0-9]."
+			"answer":"c Explanation: In java, the \"\w\" regex is used to match with a word character consists of [a-zA-Z_0-9]."
 		},
 		{
 			"question":"Which of the given methods are of Object class?",
