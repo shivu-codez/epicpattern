@@ -16,9 +16,9 @@
 			"answer":"b Explanation: The rt.jar stands for the runtime jar that comprises of all the compiled core class files for the Java Runtime Environment. It generally consists of classes like java.lang.String, java.lang.Object, java.io.Exception, etc., and all packages and classes available in the rt.jar are known to the JVM. The rt.jar is the mandatory jar file for every core java application as it contains all the core classes."
 		},
 		{
-			"question":"What is the use of \w in regex?",
+			"question":"What is the use of \\w in regex?",
 			"options" : ["Used for a whitespace character","Used for a non-whitespace character","Used for a word character","Used for a non-word character"],
-			"answer":"c Explanation: In java, the \"\w\" regex is used to match with a word character consists of [a-zA-Z_0-9]."
+			"answer":"c Explanation: In java, the \"\\w\" regex is used to match with a word character consists of [a-zA-Z_0-9]."
 		},
 		{
 			"question":"Which of the given methods are of Object class?",
