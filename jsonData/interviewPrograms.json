@@ -1,35 +1,128 @@
 {
-  "data":[
-	"Square root of a given number in Java",
-	"Remove duplicate characters from String",
-	"Add two numbers without using the plus operator",
-	"Swap two numbers without using the third variable",
-	"Reverse a Number",
-	"Convert Number to Word",
-	"Automorphic Number Program",
-	"Armstrong Number",
-	"nth Prime Number",
-	"Find GCD of Two Numbers",
-	"Find Largest of Three Numbers",
-	"Find Smallest of Three Numbers Using Ternary Operator",
-	"Check if a Number is Positive or Negative",
-	"Check if a Given Number is Perfect Square",
-	"Display Even Numbers From 1 to 100",
-	"Display Odd Numbers From 1 to 100",
-	"Find Sum of Natural Numbers",
-	"Fibonacci Series",
-	"Fibonacci Series using recursion",
-	"Palindrome number Program in Java",
-	"Palindrome String Program in Java",
-	"Reverse a string without using String inbuilt function",
-	"Count the number of words in a string",
-	"Find the second-highest number in an array",
-	"Remove all white spaces from a string with using replace()",
-	"Remove duplicates from an array",
-	"String Anagram",
-	"Print all permutations of String",
-	"Find First non repeated character in a String",
-	"Find length of String without using java inbuilt length method",
-	"Check if a vowel is present in the string"
+  "data": [
+    {
+      "title": "Square root of a given number in Java",
+      "prgm": ""
+    },
+    {
+      "title": "Remove duplicate characters from String",
+      "prgm": ""
+    },
+    {
+      "title": "Add two numbers without using the plus operator",
+      "prgm": ""
+    },
+    {
+      "title": "Swap two numbers without using the third variable",
+      "prgm": ""
+    },
+    {
+      "title": "Reverse a Number",
+      "prgm": ""
+    },
+    {
+      "title": "Convert Number to Word",
+      "prgm": ""
+    },
+    {
+      "title": "Automorphic Number Program",
+      "prgm": ""
+    },
+    {
+      "title": "Armstrong Number",
+      "prgm": ""
+    },
+    {
+      "title": "nth Prime Number",
+      "prgm": ""
+    },
+    {
+      "title": "Find GCD of Two Numbers",
+      "prgm": ""
+    },
+    {
+      "title": "Find Largest of Three Numbers",
+      "prgm": ""
+    },
+    {
+      "title": "Find Smallest of Three Numbers Using Ternary Operator",
+      "prgm": ""
+    },
+    {
+      "title": "Check if a Number is Positive or Negative",
+      "prgm": ""
+    },
+    {
+      "title": "Check if a Given Number is Perfect Square",
+      "prgm": ""
+    },
+    {
+      "title": "Display Even Numbers From 1 to 100",
+      "prgm": ""
+    },
+    {
+      "title": "Display Odd Numbers From 1 to 100",
+      "prgm": ""
+    },
+    {
+      "title": "Find Sum of Natural Numbers",
+      "prgm": ""
+    },
+    {
+      "title": "Fibonacci Series",
+      "prgm": ""
+    },
+    {
+      "title": "Fibonacci Series using recursion",
+      "prgm": ""
+    },
+    {
+      "title": "Palindrome number Program in Java",
+      "prgm": ""
+    },
+    {
+      "title": "Palindrome String Program in Java",
+      "prgm": ""
+    },
+    {
+      "title": "Reverse a string without using String inbuilt function",
+      "prgm": ""
+    },
+    {
+      "title": "Count the number of words in a string",
+      "prgm": ""
+    },
+    {
+      "title": "Find the second-highest number in an array",
+      "prgm": ""
+    },
+    {
+      "title": "Remove all white spaces from a string with using replace()",
+      "prgm": ""
+    },
+    {
+      "title": "Remove duplicates from an array",
+      "prgm": ""
+    },
+    {
+      "title": "String Anagram",
+      "prgm": ""
+    },
+    {
+      "title": "Print all permutations of String",
+      "prgm": ""
+    },
+    {
+      "title": "Find First non repeated character in a String",
+      "prgm": ""
+    },
+    {
+      "title": "Find length of String without using java inbuilt length method",
+      "prgm": ""
+    },
+    {
+      "title": "Check if a vowel is present in the string",
+      "prgm": ""
+    }
   ]
 }
