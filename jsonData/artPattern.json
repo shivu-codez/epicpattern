@@ -1,24 +1,24 @@
 {
 "data":[
     {
-      "title":"Pattern 1",
-      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/shapes/pattern1_1%400.75x.png",
-	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+      "title":"Ganesha",
+      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/art/ganesha.png",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Ganesha.java"
     },
 	{
-      "title":"Pattern 1",
-      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/shapes/pattern1_1%400.75x.png",
-	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+      "title":"Penguin",
+      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/art/penguin.png",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Penguin.java"
     },
 	{
-      "title":"Pattern 1",
-      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/shapes/pattern1_1%400.75x.png",
-	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+      "title":"Dolphin",
+      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/art/dolphin.png",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Dolphin.java"
     },
 	{
-      "title":"Pattern 1",
-      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/shapes/pattern1_1%400.75x.png",
-	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+      "title":"Rajni",
+      "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/art/rajni.png",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Rajni.java"
     }
   ]
 }
