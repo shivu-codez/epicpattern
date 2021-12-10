@@ -1,0 +1,144 @@
+{
+"data":[
+    {
+      "title":"Automotphic Number",
+      "desc":"An automorphic number is an integer whose square ends with the given integer, as (25)2 = 625, and (76)2 = 5776. Strobogrammatic numbers read the same after having been rotated through 180°; e.g., 69, 96, 1001.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Circular Prime",
+      "desc":"A circular prime is a prime number with the property that the number generated at each intermediate step when cyclically permuting its (base 10) digits will be prime. For example, 1193 is a circular prime, since 1931, 9311 and 3119 all are also prime. ... There are no other circular primes up to 1023.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Armstrong Number",
+      "desc":"Armstrong number is a number that is equal to the sum of cubes of its digits. For example 0, 1, 153, 370, 371 and 407 are the Armstrong numbers.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Buzz Number",
+      "desc":"Buzz number is another special number in Java that ends with digit 7 or divisible by 7. Unlike Prime and Armstrong numbers, the Buzz number is not so popular and asked by the interviewers. In simple words, a number is said to be Buzz if it ends with 7 or is divisible by 7.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Duck Number",
+      "desc":"A Duck number is a positive number which has zeroes present in it, For example 3210, 8050896, 70709 are all Duck numbers. Please note that a numbers with only leading 0s is not considered as Duck Number. For example, numbers like 035 or 0012 are not considered as Duck Numbers",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Factorial Number",
+      "desc":"Factorial of a positive integer n is the product of all values from n to 1. For example, the factorial of 3 is (3 * 2 * 1 = 6).",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Fibonacci Numbers",
+      "desc":"Fibonacci numbers, the elements of the sequence of numbers 1, 1, 2, 3, 5, 8, 13, 21, …, each of which, after the second, is the sum of the two previous numbers.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Floyd Triangle",
+      "desc":"Floyd's triangle is a triangular array of natural numbers, used in computer science education. It is named after Robert Floyd. It is defined by filling the rows of the triangle with consecutive numbers, starting with a 1 in the top left corner: 1. 2.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Greatest Common Divisor",
+      "desc":"The greatest common divisor for any two positive integers (a, b) is the greatest factor which is common to both the integers a and b. It is also known as the highest common factor or greatest common factor.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Happy Number",
+      "desc":"The happy number can be defined as a number which will yield 1 when it is replaced by the sum of the square of its digits repeatedly. If this process results in an endless cycle of numbers containing 4, then the number is called an unhappy number.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Harshad Number",
+      "desc":"A number is said to be the Harshad number if it is divisible by the sum of its digit. For example, if number is 156, then sum of its digit will be 1 + 5 + 6 = 12. Since 156 is divisible by 12. So, 156 is a Harshad number.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Least Common Multiple",
+      "desc":"The least common multiple of two or more numbers is the lowest number that is a common multiple of the given numbers. If X and Y are two numbers such that X is a multiple of Y, then the LCM (X, Y) = X. LCM cannot be less than any of the given numbers except for 0 which can be considered as a common multiple of all whole numbers.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Neno Number",
+      "desc":"A number is a Neon number, if sum of the digits of square of a number is equal to the number itself. Example: Number 9 is a Neon number, because 9 is equal to sum of the digits of square of number (9x9 = 81 = 8+1 = 9).",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Niven Number",
+      "desc":"A number is said to be a Niven number or Harshad number if the number is divisible by the sum of the digits of the number. For example, if the number is 18, the sum of the digits is 1+8=9 and the number '18' is divisible by 9. Therefore, 18 is a niven number.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Palindrome Number",
+      "desc":"A palindromic number (also known as a numeral palindrome or a numeric palindrome) is a number (such as 16461) that remains the same when its digits are reversed. In other words, it has reflectional symmetry across a vertical axis.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Perfect Number",
+      "desc":"Perfect number, a positive integer that is equal to the sum of its proper divisors. The smallest perfect number is 6, which is the sum of 1, 2, and 3.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Prime Number",
+      "desc":"A prime number is a natural number greater than 1 that is not a product of two smaller natural numbers. A natural number greater than 1 that is not prime is called a composite number. For example, 5 is prime because the only ways of writing it as a product, 1 × 5 or 5 × 1, involve 5 itself. ",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Reverse Number",
+      "desc":"Reverse numbers, or more specifically pairs of reversible numbers, are whole numbers in which the digits of one number are the reverse of the digits in another number, for example, 2847 and 7482 form a reversible pair.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Special Number",
+      "desc":"If the sum of the factorial of digits of a number (N) is equal to the number itself, the number (N) is called a special number.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Spy Number",
+      "desc":"A spy number is a number where the sum of its digits equals the product of its digits. For example, 1124 is a spy number, the sum of its digits is 1+1+2+4=8 and the product of its digits is 1*1*2*4=8.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Twin Number",
+      "desc":"Two prime numbers are called twin primes if there is present only one composite number between them. Or we can also say two prime numbers whose difference is two are called twin primes. For example, (3,5) are twin primes, since the difference between the two numbers 5 – 3 = 2.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Twisted Prime",
+      "desc":"The Twisted Prime number is a special prime number which is also known as the Emirp number. A number is a twisted prime number if the reverse of the number is also a prime number.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Unique Number",
+      "desc":"The number will be unique if it is positive integer and there are no repeated digits in the number. In other words, a number is said to be unique if and only if the digits are not duplicate.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Disarium Number",
+      "desc":"A disarium number is a number in which the sum of the digits to the power of their respective position is equal to the number itself (position is counted from left to right starting from 1). Hence,175 is a disarium number.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Tech Number",
+      "desc":" A number is called Tech number, if it has an even number of digits, and when we split the number into two halves then the square of the sum of those halves is equal to the number itself. For example, 2025 is a Tech number.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Magic Number",
+      "desc":"A number is said to be a magic number, if the sum of its digits are calculated till a single digit recursively by adding the sum of the digits after every addition. If the single digit comes out to be 1,then the number is a magic number. ",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Pronic Number",
+      "desc":"A pronic number is a number which is the product of two consecutive integers, that is, a number of the form n(n + 1).",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    },
+	{
+      "title":"Ugly Number",
+      "desc":"The Ugly number is another special positive number in Java. If a number has only 2, 3, or 5 prime factors and by convention 1 is also included, the number is called Ugly number. ... 27 is not an Ugly number because its prime factors contain 7. 12 is an Ugly number.",
+	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/shape/Pattern1.java"
+    }
+  ]
+}
