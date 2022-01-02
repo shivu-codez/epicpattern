@@ -1,14 +1,150 @@
 {
-"data":[
-		"Greedy Algorithms",
-		"Pattern Searching",
-		"Dynamic Programming",
-		"Backtracking",
-		"Divide and Conquer",
-		"Geometric Algorithms",
-		"Mathematical Algorithms",
-		"Graph Algorithms",
-		"Branch and Bound",
-		"Searching and Sorting"
-    ]
+  "data": [
+    {
+      "title": "Greedy Algorithms",
+      "example": [
+        {
+          "exampleTitle": "Activity Selection Problem",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },
+		{
+          "exampleTitle": "Fractional Knapsack Problem",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },
+		{
+          "exampleTitle": "Huffman Codes",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },
+		{
+          "exampleTitle": "Activity or Task Scheduling Problem",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },
+		{
+          "exampleTitle": "Travelling Sales Person Problem",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        }
+      ]
+    },
+    {
+      "title": "Dynamic Programming",
+      "example": [
+        {
+          "exampleTitle": "Fibonacci sequence",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Matrix Chain Multiplication",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Longest Common Sequence (LCS)",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "0/1 Knapsack problem",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Longest Palindromic Subsequence",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Regular Expression Matching",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Wildcard Pattern Matching",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        }
+      ]
+    },
+    {
+      "title": "Backtracking",
+      "example": [
+        {
+          "exampleTitle": "Recursive Maze Algorithm",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Hamiltonian Circuit Problems",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Subset Sum Problem",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "N-Queens Problem",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        }
+      ]
+    },
+    {
+      "title": "Divide and Conquer",
+      "example": [
+        {
+          "exampleTitle": "Max - Min Problem",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Binary Search",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Merge Sort",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Tower of Hanoi",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        }
+      ]
+    },
+    {
+      "title": "Searching and Sorting",
+      "example": [
+        {
+          "exampleTitle": "Binary Heap",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Quick sort",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Stable Sorting",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Linear Search",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Binary Search",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Jump Search",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Interpolation Search",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        },{
+          "exampleTitle": "Exponential Search",
+          "exampleJUrl": "",
+          "examplePUrl": ""
+        }
+      ]
+    }
+  ]
 }
