@@ -5,27 +5,27 @@
       "example": [
         {
           "exampleTitle": "Activity Selection Problem",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/greedy/ActivitySelectionProblem.java",
           "examplePUrl": ""
         },
 		{
           "exampleTitle": "Fractional Knapsack Problem",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/greedy/FractionalKnapsackProblem.java",
           "examplePUrl": ""
         },
 		{
           "exampleTitle": "Huffman Codes",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/greedy/HuffmanCodes.java",
           "examplePUrl": ""
         },
 		{
           "exampleTitle": "Activity or Task Scheduling Problem",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/greedy/ActivitySchedulingProblem.java",
           "examplePUrl": ""
         },
 		{
           "exampleTitle": "Travelling Sales Person Problem",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/greedy/TravellingSalesPersonProblem.java",
           "examplePUrl": ""
         }
       ]
@@ -35,31 +35,27 @@
       "example": [
         {
           "exampleTitle": "Fibonacci sequence",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/dynamic/FibonacciSequence.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Matrix Chain Multiplication",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/dynamic/MatrixChainMultiplication.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Longest Common SubSequence (LCS)",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/dynamic/LongestCommonSubequence.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "0/1 Knapsack problem",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/dynamic/KnapsackProblem.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Longest Palindromic Subsequence",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/dynamic/LongestPalindromicSubsequence.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Regular Expression Matching",
-          "exampleJUrl": "",
-          "examplePUrl": ""
-        },{
-          "exampleTitle": "Wildcard Pattern Matching",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/dynamic/RegularExpressionMatching.java",
           "examplePUrl": ""
         }
       ]
@@ -69,19 +65,19 @@
       "example": [
         {
           "exampleTitle": "Recursive Maze Algorithm",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/backtracking/RecursiveMazeAlgorithm.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Hamiltonian Cycle Problems",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/backtracking/HamiltonianCycleProblems.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Subset Sum Problem",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/backtracking/SubsetSum.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "N-Queens Problem",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/backtracking/NQueens.java",
           "examplePUrl": ""
         }
       ]
