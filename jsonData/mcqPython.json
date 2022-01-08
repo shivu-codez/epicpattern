@@ -1,0 +1,119 @@
+{
+	"data":[
+		{
+			"question":"Who developed Python Programming Language?",
+			"options" : ["Wick van Rossum"," Rasmus Lerdorf","Guido van Rossum","Niene Stom"],
+			"answer":"c Explanation: Python language is designed by a Dutch programmer Guido van Rossum in the Netherlands."
+		},
+		{
+			"question":"Which type of Programming does Python support?",
+			"options" : ["object-oriented programming","structured programming","functional programming","all of the mentioned"],
+			"answer":"d Explanation: Python is an interpreted programming language, which supports object-oriented, structured, and functional programming."
+		},
+		{
+			"question":"Which one of the following is not a keyword in Python language?",
+			"options" : ["pass","eval","assert","nonlocal"],
+			"answer":"b Explanation: eval can be used as a variable."
+		},
+		{
+			"question":"Which module in the python standard library parses options received from the command line?",
+			"options" : ["getarg","getopt","main","os"],
+			"answer":"b Explanation: getopt parses options received from the command line."
+		},
+		{
+			"question":"What arithmetic operators cannot be used with strings in Python?",
+			"options" : ["*","–","+","All of the mentioned"],
+			"answer":"b Explanation: + is used to concatenate and * is used to multiply strings."
+		},
+		{
+			"question":"Which of the following statements is used to create an empty set in Python?",
+			"options" : ["( )","[ ]","{ }","set()"],
+			"answer":"d Explanation: { } creates a dictionary not a set. Only set() creates an empty set."
+		},
+		{
+			"question":"To add a new element to a list we use which Python command?",
+			"options" : ["list1.addEnd(5)","list1.addLast(5)","list1.append(5)","list1.add(5)"],
+			"answer":"c Explanation: We use the function append to add an element to the list."
+		},
+		{
+			"question":"Which one of the following is the use of function in python?",
+			"options" : ["Functions don’t provide better modularity for your application","you can’t also create your own functions","Functions are reusable pieces of programs","All of the mentioned"],
+			"answer":"c Explanation: Functions are reusable pieces of programs. They allow you to give a name to a block of statements, allowing you to run that block using the specified name anywhere in your program and any number of times."
+		},
+		{
+			"question":"What is the maximum possible length of an identifier in Python?",
+			"options" : ["79 characters","31 characters","63 characters","none of the mentioned"],
+			"answer":"d Explanation: Identifiers can be of any length."
+		},
+		{
+			"question":"What is output of print(math.pow(3, 2))?",
+			"options" : ["9.0","None","9","None of the mentioned"],
+			"answer":"a Explanation: math.pow() returns a floating point number."
+		},
+		{
+			"question":"Which of the following is the use of id() function in python?",
+			"options" : ["Every object in Python doesn’t have a unique id","In Python Id function returns the identity of the object","None of the mentioned","All of the mentioned"],
+			"answer":"b Explanation: Each object in Python has a unique id. The id() function returns the object’s id."
+		},
+		{
+			"question":"The process of pickling in Python includes ____________",
+			"options" : ["conversion of a Python object hierarchy into byte stream","conversion of a datatable into a list","conversion of a byte stream into Python object hierarchy","conversion of a list into a datatable"],
+			"answer":"a Explanation: Pickling is the process of sterilizing a Python object, that is, conversion of a byte stream into Python object hierarchy. The reverse of this process is known as unpickling."
+		},
+		{
+			"question":"Which of the following is the truncation division operator in Python?",
+			"options" : ["|","'//'","'/'","%"],
+			"answer":"b Explanation: // is the operator for truncation division. It is called so because it returns only the integer part of the quotient, truncating the decimal part. For example: 20//3 = 6."
+		},
+		{
+			"question":"Which of the following functions is a built-in function in python?",
+			"options" : ["factorial()","print()","seed()","sqrt()"],
+			"answer":"b Explanation: The function seed is a function which is present in the random module. The functions sqrt and factorial are a part of the math module. The print function is a built-in function which prints a value directly to the system output."
+		},
+		{
+			"question":"Python supports the creation of anonymous functions at runtime, using a construct called __________",
+			"options" : ["pi","anonymous","lambda","none of the mentioned"],
+			"answer":"c Explanation: Python supports the creation of anonymous functions (i.e. functions that are not bound to a name) at runtime, using a construct called lambda. Lambda functions are restricted to a single expression. They can be used wherever normal functions can be used."
+		},
+		{
+			"question":"Which of the following functions can help us to find the version of python that we are currently working on?",
+			"options" : ["sys.version(1)","sys.version(0)","sys.version()","sys.version"],
+			"answer":"a Explanation: The function sys.version can help us to find the version of python that we are currently working on. For example, 3.5.2, 2.7.3 etc. this function also returns the current date, time, bits etc along with the version."
+		},
+		{
+			"question":"Which keyword is used for function in Python language?",
+			"options" : ["Function","Def","Fun","Define"],
+			"answer":"b Explanation: None."
+		},
+		{
+			"question":"Which of the following is used to define a block of code in Python language?",
+			"options" : ["Indentation","Key","Brackets","All of the mentioned"],
+			"answer":"a Explanation: In Python, to define a block of code we use indentation. Indentation refers to whitespaces at the beginning of the line."
+		},
+		{
+			"question":"All keywords in Python are in _________",
+			"options" : ["Capitalized","lower case","UPPER CASE","None of the mentioned"],
+			"answer":"d Explanation: True, False and None are capitalized while the others are in lower case."
+		},
+		{
+			"question":"Is Python code compiled or interpreted?",
+			"options" : ["Python code is both compiled and interpreted","Python code is neither compiled nor interpreted","Python code is only compiled","Python code is only interpreted"],
+			"answer":"b Explanation: Many languages have been implemented using both compilers and interpreters, including C, Pascal, and Python."
+		},
+		{
+			"question":"What is output for - a = ['he', 'she', 'we'] ' '.join(a)",
+			"options" : ["['heshewe']","'heshewe'","['he she we']","'he she we'"],
+			"answer":"b Explanation The method join() takes list of string as input and returns string as output. It removes ', ' and add the given string with join to the list."
+		},
+		{
+			"question":"Which is invalid in python for z = 5 ?",
+			"options" : ["z = z++","z = ++z","z += 1","z -= 1"],
+			"answer":"a Explanation z = z++ is not valid in python, it is not a legal expression. It results in syntax error."
+		},
+		{
+			"question":"What is output for - 2 * 2 **3",
+			"options" : ["12","64","16","36"],
+			"answer":"c Explanation 2**3 gives 2*2*2 i.e. 8, then 2*8 gives 16, since order of precedence is ** then*. ** implies '' raise to power''."
+		}
+	]
+}
