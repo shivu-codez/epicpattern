@@ -87,19 +87,19 @@
       "example": [
         {
           "exampleTitle": "Max - Min Problem",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/divideandconquer/MaxMinProblem.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Binary Search",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/divideandconquer/BinarySearch.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Merge Sort",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/divideandconquer/MergeSort.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Tower of Hanoi",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/divideandconquer/TowerOfHanoi.java",
           "examplePUrl": ""
         }
       ]
@@ -109,35 +109,35 @@
       "example": [
         {
           "exampleTitle": "Binary Heap",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/searchingsorting/BinaryHeap.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Quick sort",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/searchingsorting/QuickSort.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Stable Sorting",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/searchingsorting/StableSorting.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Linear Search",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/searchingsorting/LinearSearch.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Binary Search",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/searchingsorting/BinarySearch.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Jump Search",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/searchingsorting/JumpSearch.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Interpolation Search",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/searchingsorting/InterpolationSearch.java",
           "examplePUrl": ""
         },{
           "exampleTitle": "Exponential Search",
-          "exampleJUrl": "",
+          "exampleJUrl": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/algorithm/searchingsorting/ExponentialSearch.java",
           "examplePUrl": ""
         }
       ]
