@@ -7,24 +7,24 @@ public class SpecialNumber {
 	private static Scanner sc;
 
 	public static void main(String[] args) {
-		int n, num, r, sumOfFactorial = 0;
-		sc = new Scanner(System.in);
-		System.out.println("Enter a number:");
-		n = sc.nextInt();
-		num = n;
-		while (num > 0) {
-			r = num % 10;
+		int num, number, last_digit, sum_Of_Fact = 0;
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter a number: ");
+		number = sc.nextInt();
+		num = number;
+		while (number > 0) {
+			last_digit = number % 10;
 			int fact = 1;
-			for (int i = 1; i <= r; i++) {
+			for (int i = 1; i <= last_digit; i++) {
 				fact = fact * i;
 			}
-			sumOfFactorial = sumOfFactorial + fact;
-			num = num / 10;
+			sum_Of_Fact = sum_Of_Fact + fact;
+			number = number / 10;
 		}
-		if (n == sumOfFactorial) {
-			System.out.println("Special Number");
+		if (num == sum_Of_Fact) {
+			System.out.println(num + " is a special number.");
 		} else {
-			System.out.println("Not Special Number");
+			System.out.println(num + " is not a special number.");
 		}
 	}
 
