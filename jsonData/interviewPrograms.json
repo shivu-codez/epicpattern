@@ -2,158 +2,158 @@
   "data": [
     {
       "title": "Square root of a given number in Java",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/SquareRootOfNumber.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/SquareRootOfNumber.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/SquareRootOfNumber.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/SquareRootOfNumber.java"
     },
     {
       "title": "Remove duplicate characters from String",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/RemoveDuplicatesInString.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/RemoveDuplicatesInString.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/RemoveDuplicatesInString.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/RemoveDuplicatesInString.java"
     },
     {
       "title": "Add two numbers without using the plus operator",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/AddTwoNumberWithoutPlusOperator.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/AddTwoNumberWithoutPlusOperator.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/AddTwoNumberWithoutPlusOperator.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/AddTwoNumberWithoutPlusOperator.java"
     },
     {
       "title": "Swap two numbers without using the third variable",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/SwapTwoNumbersWithoutThirdVariable.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/SwapTwoNumbersWithoutThirdVariable.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/SwapTwoNumbersWithoutThirdVariable.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/SwapTwoNumbersWithoutThirdVariable.java"
     },
     {
       "title": "Reverse a Number",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/ReverseNumber.java",
-	  "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/ReverseNumber.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/ReverseNumber.java",
+	  "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/ReverseNumber.java"
     },
     {
       "title": "Convert Number to Word",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/TwoDigitNumberToWords.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/TwoDigitNumberToWords.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/TwoDigitNumberToWords.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/TwoDigitNumberToWords.java"
     },
     {
       "title": "Automorphic Number Program",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/AutomorphicNumber.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/AutomorphicNumber.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/AutomorphicNumber.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/AutomorphicNumber.java"
     },
     {
       "title": "Armstrong Number",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/ArmstrongNumber.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/ArmstrongNumber.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/ArmstrongNumber.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/ArmstrongNumber.java"
     },
     {
       "title": "nth Prime Number",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/NPrimeNumber.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/NPrimeNumber.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/NPrimeNumber.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/NPrimeNumber.java"
     },
     {
       "title": "Find GCD of Two Numbers",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/GCDOfNumber.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/GCDOfNumber.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/GCDOfNumber.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/GCDOfNumber.java"
     },
     {
       "title": "Find Largest of Three Numbers",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/LargestNumberOfThree.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/LargestNumberOfThree.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/LargestNumberOfThree.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/LargestNumberOfThree.java"
     },
     {
       "title": "Find Smallest of Three Numbers Using Ternary Operator",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/SmallestNumberOfThree.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/SmallestNumberOfThree.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/SmallestNumberOfThree.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/SmallestNumberOfThree.java"
     },
     {
       "title": "Check if a Number is Positive or Negative",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/NumberPositiveOrNegative.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/NumberPositiveOrNegative.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/NumberPositiveOrNegative.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/NumberPositiveOrNegative.java"
     },
     {
       "title": "Check if a Given Number is Perfect Square",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/NumberPerfectSquare.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/NumberPerfectSquare.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/NumberPerfectSquare.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/NumberPerfectSquare.java"
     },
     {
       "title": "Display Even Numbers From 1 to 100",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/PrintEvenNumber.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/PrintEvenNumber.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/PrintEvenNumber.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/PrintEvenNumber.java"
     },
     {
       "title": "Display Odd Numbers From 1 to 100",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/PrintOddNumber.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/PrintOddNumber.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/PrintOddNumber.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/PrintOddNumber.java"
     },
     {
       "title": "Find Sum of Natural Numbers",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/NaturalNumber.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/NaturalNumber.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/NaturalNumber.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/NaturalNumber.java"
     },
     {
       "title": "Fibonacci Series",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/FibonacciSeries.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/FibonacciSeries.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/FibonacciSeries.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/FibonacciSeries.java"
     },
     {
       "title": "Fibonacci Series using recursion",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/FibonacciSeriesRecursion.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/FibonacciSeriesRecursion.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/FibonacciSeriesRecursion.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/FibonacciSeriesRecursion.java"
     },
     {
       "title": "Palindrome number Program in Java",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/PalindromeNumber.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/PalindromeNumber.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/PalindromeNumber.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/PalindromeNumber.java"
     },
     {
       "title": "Palindrome String Program in Java",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/PalindromeString.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/PalindromeString.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/PalindromeString.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/PalindromeString.java"
     },
     {
       "title": "Reverse a string without using String inbuilt function",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/ReverseString.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/ReverseString.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/ReverseString.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/ReverseString.java"
     },
     {
       "title": "Count the number of words in a string",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/CountTheNumberWordsInString.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/CountTheNumberWordsInString.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/CountTheNumberWordsInString.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/CountTheNumberWordsInString.java"
     },
     {
       "title": "Find the second-highest number in an array",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/SecondLargestNumberInArray.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/SecondLargestNumberInArray.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/SecondLargestNumberInArray.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/SecondLargestNumberInArray.java"
     },
     {
       "title": "Remove all white spaces from a string with using replace()",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/RemoveWhiteSpacesFromString.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/RemoveWhiteSpacesFromString.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/RemoveWhiteSpacesFromString.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/RemoveWhiteSpacesFromString.java"
     },
     {
       "title": "Remove duplicates from an array",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/RemoveDuplicatesInArray.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/RemoveDuplicatesInArray.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/RemoveDuplicatesInArray.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/RemoveDuplicatesInArray.java"
     },
     {
       "title": "String Anagram",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/AnagramString.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/AnagramString.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/AnagramString.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/AnagramString.java"
     },
     {
       "title": "Print all permutations of String",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/PermutationsOfString.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/PermutationsOfString.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/PermutationsOfString.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/PermutationsOfString.java"
     },
     {
       "title": "Find First non repeated character in a String",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/FirstNonRepeatedCharacterInString.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/FirstNonRepeatedCharacterInString.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/FirstNonRepeatedCharacterInString.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/FirstNonRepeatedCharacterInString.java"
     },
     {
       "title": "Find length of String without using java inbuilt length method",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/FindLengthOfString.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/FindLengthOfString.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/FindLengthOfString.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/FindLengthOfString.java"
     },
     {
       "title": "Check if a vowel is present in the string",
-      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/VowelsInString.java",
-	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgm1s/interview/VowelsInString.java"
+      "prgm1": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/VowelsInString.java",
+	  "prgm2": "https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/interview/VowelsInString.java"
     }
   ]
 }
