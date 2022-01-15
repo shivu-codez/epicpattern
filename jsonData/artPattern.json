@@ -3,22 +3,26 @@
     {
       "title":"Ganesha",
       "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/art/ganesha.png",
-	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Ganesha.java"
+	  "prgm1":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Ganesha.java",
+	  "prgm2":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Ganesha.java"
     },
 	{
       "title":"Penguin",
       "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/art/penguin.png",
-	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Penguin.java"
+	  "prgm1":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Penguin.java",
+	  "prgm2":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Penguin.java"
     },
 	{
       "title":"Dolphin",
       "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/art/dolphin.png",
-	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Dolphin.java"
+	  "prgm1":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Dolphin.java",
+	  "prgm2":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Dolphin.java"
     },
 	{
       "title":"Rajni",
       "img":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/thumb/art/rajni.png",
-	  "prgm":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Rajni.java"
+	  "prgm1":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Rajni.java",
+	  "prgm2":"https://raw.githubusercontent.com/shivu-codez/epicpattern/main/prgms/art/Rajni.java"
     }
   ]
 }
